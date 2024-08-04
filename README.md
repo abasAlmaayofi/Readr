@@ -2,7 +2,7 @@
 
 ## snapshots
 
-|     Splash Screen and players images      |            index screen image            |
+|      Splash Screen and reader images      |            index screen image            |
 | :---------------------------------------: | :--------------------------------------: |
 | ![Alt text](./snapshots/splashScreen.png) | ![Alt text](./snapshots/indexScreen.png) |
-| ![Alt text](./snapshots/playerScreen.png) |
+| ![Alt text](./snapshots/readerScreen.png) |
